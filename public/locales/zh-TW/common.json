@@ -41,7 +41,7 @@
   "Downloading folder, refresh page to cancel": "下載資料夾中，重新整理頁面將取消下載",
   "Downloading selected files, refresh page to cancel": "下載選擇的檔案中，重新整理頁面將取消下載",
   "Downloading selected files...": "下載選擇的檔案中…",
-  "Email": "電子郵件",
+  "Email": "Email",
   "Enter Password": "輸入密碼",
   "Error storing the token": "儲存 token 時出現錯誤",
   "Error validating identify, restart": "驗證身分時出現錯誤，請重新開始",
