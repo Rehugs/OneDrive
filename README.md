@@ -25,6 +25,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 ## Quick start
 
 🚀 Quick start: [Getting started](https://ovi.swo.moe/docs/getting-started).
+**Tips: Please create kv storage from Vercel and connect to you onedrive project**
 
 ## Discussion
 

@@ -37,19 +37,19 @@ export default function OAuthStep1() {
 
             <p className="py-1 text-sm font-medium text-yellow-400">
               <Trans>
-                <FontAwesomeIcon icon="exclamation-triangle" className="mr-1" /> If you have not specified a REDIS_URL
+                <FontAwesomeIcon icon="exclamation-triangle" className="mr-1" /> If you have not specified a KV_URL
                 inside your Vercel env variable, go initialise one at{' '}
-                <a href="https://upstash.com/" target="_blank" rel="noopener noreferrer" className="underline">
-                  Upstash
+                <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer" className="underline">
+                  Vercel Storage
                 </a>
                 . Docs:{' '}
                 <a
-                  href="https://docs.upstash.com/redis/howto/vercelintegration"
+                  href="https://vercel.com/docs/storage/vercel-kv"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="underline"
                 >
-                  Vercel Integration - Upstash
+                  Vercel-KV-Storage
                 </a>
                 .
               </Trans>
