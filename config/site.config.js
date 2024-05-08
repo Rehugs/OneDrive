@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/Rehugs',
+      link: 'https://github.com/reagin',
     }
   ],
 
